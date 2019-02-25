@@ -1,0 +1,8 @@
+__pycache__
+.idea
+.pytest_cache
+/venv/
+17_madlib.py 
+sandbox.py 
+save.py 
+.vscode
